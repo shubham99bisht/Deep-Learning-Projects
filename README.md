@@ -14,4 +14,4 @@ Open Google Colab and follow these steps:
   2. Navigate to **Github** tab
   3. Enter the url to the .ipynb file (Jupyter notebooks)
 
-![](https://github.com/shubham99bisht/Deep-Learning-Projects/tree/master/Assets/Colab_Example.png)
+![](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Assets/Colab_Example.png)
