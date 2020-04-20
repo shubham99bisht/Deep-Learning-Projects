@@ -10,7 +10,7 @@ Here's the list of best solutions for Week 1's Challenges.
 
 **2. Abhishek Basu** - 2nd year, EXTC, FRCIT
 
-&nbsp;&nbsp;&nbsp; Github Repo: https://github.com/AbhishekBasu-14/Python_3_basics
+&nbsp;&nbsp;&nbsp; Github Repo: https://github.com/AbhishekBasu-14/Python_3_Beginner/tree/master/Week_1
 
 ## Best Solutions for Intermediate Challenge:
 
@@ -29,6 +29,6 @@ Here's the list of best solutions for Week 1's Challenges.
 
 &nbsp;&nbsp;&nbsp; Github Repo: https://github.com/18alantom/sc_challenges/tree/master/week_1
 
-**2. Shubham Bisht** - 4th year, IT, DBIT
+**2. Shubham Bisht**
 
 &nbsp;&nbsp;&nbsp; Gitub Repo: (Work in progress, making the official solutions for advanced level)
