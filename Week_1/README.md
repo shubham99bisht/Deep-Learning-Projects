@@ -31,4 +31,4 @@ Here's the list of best solutions for Week 1's Challenges.
 
 **2. Shubham Bisht**
 
-&nbsp;&nbsp;&nbsp; Gitub Repo: (Work in progress, making the official solutions for advanced level)
+&nbsp;&nbsp;&nbsp; Gitub Repo: 
