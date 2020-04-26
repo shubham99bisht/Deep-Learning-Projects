@@ -6,10 +6,12 @@ Website Link: https://shubham99bisht.github.io/Skillconnect-Community/
 
 ![](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Assets/challenge.png)
 
-Each folder contains a list of problem statements divided into three categories Basic, Intermediate and Advanced along with official solutions.
-The README file available inside each folder provides links to Best Solutions from the Community.
+## Resources and Solutions
 
-**The ![Resources.md](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Resources.md) file contains links to external resources for learning and solving these challenges.**
+Each folder contains a list of problem statements divided into three categories Basic, Intermediate and Advanced along with official solutions.<br>
+The **README file** available inside each folder provides links to **Best Solutions from the Community.**
+
+The **[Resources.md](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Resources.md)** file contains links to external resources for learning and solving these challenges.
 
 ## How to play with these solutions on Colab
 
