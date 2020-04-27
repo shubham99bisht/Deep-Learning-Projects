@@ -6,6 +6,11 @@ Website Link: https://shubham99bisht.github.io/Skillconnect-Community/
 
 ![](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Assets/challenge.png)
 
+## Solutions
+
+Each folder contains a list of problem statements divided into three categories Basic, Intermediate and Advanced along with official solutions.<br>
+The **README file** available inside each folder provides links to **Best Solutions from the Community.**
+
 ## How to play with these solutions on Colab
 
 Open Google Colab and follow these steps:
@@ -15,14 +20,9 @@ Open Google Colab and follow these steps:
   3. Enter the url to the .ipynb file (Jupyter notebooks)
   4. [See Picture here](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Assets/Colab_Example.png)
 
-## Resources and Solutions
-
-Each folder contains a list of problem statements divided into three categories Basic, Intermediate and Advanced along with official solutions.<br>
-The **README file** available inside each folder provides links to **Best Solutions from the Community.**
+## Resources References with Learning Plan
 
 The **[Resources.md](https://github.com/shubham99bisht/Deep-Learning-Projects/blob/master/Resources.md)** file contains links to external resources for learning and solving these challenges.
-
-## Resources References with Learning Plan
 
 This Repository contains a list of Reference Links to Online Resources for learning Machine Learning, Deep Learning, Computer Vision and other prerequisites like Maths and Frameworks.
 <br><br>
