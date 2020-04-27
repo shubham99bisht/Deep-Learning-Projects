@@ -2,7 +2,7 @@
 
 ## Official Solution
 
-Official solution of this Week's Advanced challenges (work in progress!): [Official_Solution](https://github.com/shubham99bisht/Deep-Learning-Projects/tree/master/Week_2/Official_Solution)
+Official solution of this Week's Advanced challenges: [Official_Solution](https://github.com/shubham99bisht/Deep-Learning-Projects/tree/master/Week_2/Official_Solution)
 
 ## Best Solutions for Basic Challenge:
 
@@ -39,3 +39,12 @@ Official solution of this Week's Advanced challenges (work in progress!): [Offic
 
 &nbsp;&nbsp;&nbsp; Gitub Repo: https://github.com/SaRINx55/Doggo_Catto
 
+## Other Solutions:
+
+**1. Abhishek Basu** - Basic Solution
+
+&nbsp;&nbsp;&nbsp; Gitub Repo: https://github.com/AbhishekBasu-14/Python_3_Beginner/tree/master/Week_2
+
+**2. Rucha Daware** - Intermediate Solution
+
+&nbsp;&nbsp;&nbsp; Gitub Repo: https://github.com/rucha-18/Intermediate_Challenge/tree/master/Week_2
