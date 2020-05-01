@@ -29,6 +29,3 @@ Here's the list of best solutions for Week 1's Challenges.
 
 &nbsp;&nbsp;&nbsp; Github Repo: https://github.com/18alantom/sc_challenges/tree/master/week_1
 
-**2. Shubham Bisht**
-
-&nbsp;&nbsp;&nbsp; Gitub Repo: 
