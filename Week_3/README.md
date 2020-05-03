@@ -12,9 +12,13 @@ Official solution of this Week's Intermediate challenges: [Will be released soon
 
 &nbsp;&nbsp;&nbsp; Gitub Repo:https://github.com/rucha-18/Intermediate_Challenge/tree/master/Week_3
 
-**2. Hrushabhsingh Chouhan** - 3nd year, Comp Science, UMIT
+**2. Hrushabhsingh Chouhan**
 
 &nbsp;&nbsp;&nbsp; Github Repo: https://github.com/hrushabh8899/intermediate-challenge/tree/master/Week3
+
+**3. Bonda Sridhar** - 2nd year, EXTC, FRCIT
+
+&nbsp;&nbsp;&nbsp; Github Repo: https://github.com/sridharbonda/python-for-beginners/tree/master/week3
 
 ## Best Solutions for Intermediate Challenge:
 
